@@ -5,7 +5,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Poppins', sans-serif;
-  background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%);
+  background: linear-gradient(135deg, #535353 0%, #797979 100%);
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -45,6 +45,7 @@ body {
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
   width: 250px;
+  font-size: 28px;
 }
 
 .profile-photo {

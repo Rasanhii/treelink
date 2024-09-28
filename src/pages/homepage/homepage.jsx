@@ -7,7 +7,7 @@ const Homepage = () => {
       <h1 className="title">Venha nos conhecer</h1>
       <div className="container">
         <div className="photo-card">
-          <img src="./pessoas/Amanda.jpg" alt="Amanda" className="profile-photo" />
+          <img src="./pessoas/Amanda.jpeg" alt="Amanda" className="profile-photo" />
           <p>Amanda Cursino</p>
           <div className="button-group">
             <div>Botão</div>
@@ -21,7 +21,7 @@ const Homepage = () => {
           </div>
         </div>
         <div className="photo-card">
-          <img src=".\pessoas\Paulo.jpg" alt="Paulo" className="profile-photo" />
+          <img src=".\pessoas\Paulo.png" alt="Paulo" className="profile-photo" />
           <p>Paulo Roberto</p>
           <div>Botão</div>
           <div className="button-group">

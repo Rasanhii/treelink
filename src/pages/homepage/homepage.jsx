@@ -1,11 +1,7 @@
 import React from 'react';
 import "./homepage.css";
-import { Button } from 'react-bootstrap';
 
 const Homepage = () => {
-  const handleClick = () => {
-    alert('Ícone clicado!')
-  }
     return (
     <div className="page">
       <h1 className="title">Venha nos conhecer</h1>

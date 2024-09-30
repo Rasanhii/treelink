@@ -71,7 +71,7 @@ const Homepage = () => {
 
         {/* Rafael */}
         <div className="photo-card">
-          <img src="./pessoas/Rafael.jpeg" alt="Rafael" className="profile-photo" />
+          <img src="./pessoas/Rafael.png" alt="Rafael" className="profile-photo" />
           <p>Rafael Moura</p>
           <a className='links' target='blank' href='https://www.linkedin.com/in/rafael-moura-64470023a/' >
             <i class="bi bi-linkedin"></i>

@@ -6,7 +6,7 @@ import Homepage from './pages/homepage/homepage';
 
 function App() {
   return (
-    <BrowserRouter basename='/treelink'>
+    <BrowserRouter basename='/'>
       <Routes>
         <Route path = "/">
           <Route index element={<Homepage />} />

@@ -1,3 +1,11 @@
+# Bibliotecas
+```
+npm install react-bootstrap bootstrap styled-components
+npm install react-background-slider
+```
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

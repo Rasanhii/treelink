@@ -24,7 +24,7 @@ const Homepage = () => {
             <i class="bi bi-whatsapp"></i>
             <span>Whatsapp</span>
           </a>
-          <a className='links' target='blank' href='' >
+          <a className='links' target='blank' href='mailto:amanda.f.cursino@gmail.com?subject=link HTML' >
             <i class="bi bi-envelope"></i>
             <span>Email</span>
           </a>
@@ -47,7 +47,7 @@ const Homepage = () => {
             <i class="bi bi-whatsapp"></i>
             <span>Whatsapp</span>
           </a>
-          <a className='links' target='blank' href='' >
+          <a className='links' target='blank'  href='mailto:jonataspereira788@gmail.com?subject=link HTML' >
             <i class="bi bi-envelope"></i>
             <span>Email</span>
           </a>
@@ -70,7 +70,7 @@ const Homepage = () => {
             <i class="bi bi-whatsapp"></i>
             <span>Whatsapp</span>
           </a>
-          <a className='links' target='blank' href='' >
+          <a className='links' target='blank' href='mailto:pcastroneto101105@gmail.com@gmail.com?subject=link HTML' >
             <i class="bi bi-envelope"></i>
             <span>Email</span>
           </a>
@@ -93,7 +93,7 @@ const Homepage = () => {
             <i class="bi bi-whatsapp"></i>
             <span>Whatsapp</span>
           </a>
-          <a className='links' target='blank' href='' >
+          <a className='links' target='blank' href='mailto:rmoura584@gmail.com?subject=link HTML' >
             <i class="bi bi-envelope"></i>
             <span>Email</span>
           </a>

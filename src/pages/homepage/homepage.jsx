@@ -20,13 +20,13 @@ const Homepage = () => {
             <i class="bi bi-github"></i>
             <span>Github</span>
           </a>
-          <a className='links' target='blank' href='https://www.instagram.com/amanda_cursino93/' >
-            <i class="bi bi-instagram"></i>
-            <span>Instagram</span>
-          </a>
           <a className='links' target='blank' href='https://wa.me/5512988358585' >
             <i class="bi bi-whatsapp"></i>
             <span>Whatsapp</span>
+          </a>
+          <a className='links' target='blank' href='' >
+            <i class="bi bi-envelope"></i>
+            <span>Email</span>
           </a>
         </div>
 
@@ -43,9 +43,13 @@ const Homepage = () => {
             <i class="bi bi-github"></i>
             <span>Github</span>
           </a>
-          <a className='links' target='blank' href='https://www.instagram.com/jonatas_s_pereira/' >
-            <i class="bi bi-instagram"></i>
-            <span>Instagram</span>
+          <a className='links' target='blank' href='https://wa.me/5512992515607' >
+            <i class="bi bi-whatsapp"></i>
+            <span>Whatsapp</span>
+          </a>
+          <a className='links' target='blank' href='' >
+            <i class="bi bi-envelope"></i>
+            <span>Email</span>
           </a>
         </div>
 
@@ -66,6 +70,10 @@ const Homepage = () => {
             <i class="bi bi-whatsapp"></i>
             <span>Whatsapp</span>
           </a>
+          <a className='links' target='blank' href='' >
+            <i class="bi bi-envelope"></i>
+            <span>Email</span>
+          </a>
         </div>
 
 
@@ -81,13 +89,13 @@ const Homepage = () => {
             <i class="bi bi-github"></i>
             <span>Github</span>
           </a>
-          <a className='links' target='blank' href='https://www.instagram.com/faelzin_faria?igsh=OTlobTUxcDEyZXM2&utm_source=qr' >
-            <i class="bi bi-instagram"></i>
-            <span>Instagram</span>
-          </a>
           <a className='links' target='blank' href='https://wa.me/5512992515607' >
             <i class="bi bi-whatsapp"></i>
             <span>Whatsapp</span>
+          </a>
+          <a className='links' target='blank' href='' >
+            <i class="bi bi-envelope"></i>
+            <span>Email</span>
           </a>
         </div>
       </div>
